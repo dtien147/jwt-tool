@@ -2,7 +2,7 @@
   "name": "jwt-tool",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/your-repo",
+  "homepage": "https://dtien147.github.io/jwt-tool",
   "dependencies": {
     "jwt-decode": "^4.0.0",
     "jwt-encode": "^1.0.1",
