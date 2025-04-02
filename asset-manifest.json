@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jwt-tool/static/css/main.5644cd2a.css",
+    "main.js": "/jwt-tool/static/js/main.b6c73edc.js",
+    "index.html": "/jwt-tool/index.html",
+    "main.5644cd2a.css.map": "/jwt-tool/static/css/main.5644cd2a.css.map",
+    "main.b6c73edc.js.map": "/jwt-tool/static/js/main.b6c73edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5644cd2a.css",
+    "static/js/main.b6c73edc.js"
+  ]
+}
